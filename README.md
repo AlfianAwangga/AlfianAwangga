@@ -3,7 +3,7 @@ I'm Currenly learning about Machine Learning
 
 ### Let's Connect
 - **Email :** alfianawangga15@gmail.com
-- **LinkedIn :** [Alfian Diva Awangga](jttps://www.linkedin.com/in/alfian-diva-awangga)
+- **LinkedIn :** [Alfian Diva Awangga](https://www.linkedin.com/in/alfian-diva-awangga)
 
 <!--
 **AlfianAwangga/AlfianAwangga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
